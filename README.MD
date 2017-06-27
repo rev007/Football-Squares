@@ -3,10 +3,6 @@
 //  Copyright (c) 2015 Martini Castle. All rights reserved.
 
 
-NOTE
-
-Don't merge anything with the original master. It's very old and should only be looked at.
-
 HOW TO RUN
 
 1. Open the project using Xcode
