@@ -28,7 +28,7 @@ const int zPosAlmostBack = 5; //z-position very close to the back
 const int zPosRest = 100; //z-position for resting tokens between the field and whatever views/layers are closer to the front
 const int zPosFootball = 150; //z-position for the tiny winning football
 const int zPosGlide = 200; //z-position for gliding above the resting tokens
-const int zPosAlmostFront = 300; //z-position very close to the front
+const int zPosAlmostFront = 299; //z-position very close to the front
 const int zPosFront = 400; //z-position to the front
 
 BOOL gameJustStarted; //create some one-time effects if the game has just begun with a valid score
