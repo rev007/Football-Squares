@@ -1,9 +1,25 @@
-## Sports Squares
-//  Created by EAGLE on 6/3/15.
-//  Copyright (c) 2015 Martini Castle. All rights reserved.
+## Sports Squares ##
 
+##  Created by EAGLE on 6/3/15. ##
 
-HOW TO RUN
+Copyright (c) 2015 Martini Castle. All rights reserved.
+
+### About ###
+
+An iOS app with a new twist on football squares. Answer trivia correctly and move to a better square.
+
+This game was created using the following technologies:
+
+* Objecive-C programming language
+* AVFoundation framework
+* UIKit framework
+* QuartzCore framework
+* Core Animation framework
+* Xcode IDE 
+
+If you're interested in writing a Core Data persistence store, or if you have any other contributions you'd like to make,  please contact me. Collaboration to improve the game would be great!
+  
+### How to Run ###
 
 1. Open the project using Xcode
 2. Select a device (iPad is recommended) and hit the run button
@@ -19,6 +35,7 @@ HOW TO RUN
 
 ### Credits
 
-Kris Johnson's blog on tiles
-Cesare Rocchi's rotating wheel post
-Multiple code segments adapted from contributions on Stack Overflow
+Kris Johnson's blog on tiles  
+Cesare Rocchi's rotating wheel post  
+Multiple code segments adapted from contributions on Stack Overflow  
+Ken Berube at BigTeddyStudios.com for the image assets 
