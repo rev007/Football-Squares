@@ -10,7 +10,6 @@
 		E70459D11D6FB94300648BAA /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E70459D01D6FB94300648BAA /* Launch Screen.storyboard */; };
 		E74302891C5A2B0E00DC9352 /* whistle.aif in Resources */ = {isa = PBXBuildFile; fileRef = E74302881C5A2B0E00DC9352 /* whistle.aif */; };
 		E743028B1C5BDB5300DC9352 /* scoreChange.aif in Resources */ = {isa = PBXBuildFile; fileRef = E743028A1C5BDB5300DC9352 /* scoreChange.aif */; };
-		E76AB5691BD63891008E41C8 /* lineShift.aif in Resources */ = {isa = PBXBuildFile; fileRef = E76AB5681BD63891008E41C8 /* lineShift.aif */; };
 		E7845A561D22E43100EB52FE /* bell.aif in Resources */ = {isa = PBXBuildFile; fileRef = E7845A551D22E43100EB52FE /* bell.aif */; };
 		E78944CD1BB1688800C88BBA /* SquaresAudio.m in Sources */ = {isa = PBXBuildFile; fileRef = E78944CC1BB1688800C88BBA /* SquaresAudio.m */; };
 		E7A3F82C1BD94BEF001D1C11 /* Field.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7A3F82B1BD94BEF001D1C11 /* Field.xcassets */; };
@@ -27,13 +26,14 @@
 		E7AF39091B1FD98D0058EC5B /* SquaresGame.m in Sources */ = {isa = PBXBuildFile; fileRef = E7AF39081B1FD98D0058EC5B /* SquaresGame.m */; };
 		E7AF390C1B1FDAA90058EC5B /* Token.m in Sources */ = {isa = PBXBuildFile; fileRef = E7AF390B1B1FDAA90058EC5B /* Token.m */; };
 		E7B0379C1C41883000672C59 /* Images-2.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7B0379B1C41883000672C59 /* Images-2.xcassets */; };
+		E7B5E6472046F5E50050C13A /* lineShift.aif in Resources */ = {isa = PBXBuildFile; fileRef = E7B5E6462046F5E50050C13A /* lineShift.aif */; };
+		E7B5E64A2046F61B0050C13A /* ringUpFollow.aif in Resources */ = {isa = PBXBuildFile; fileRef = E7B5E6482046F61B0050C13A /* ringUpFollow.aif */; };
+		E7B5E64B2046F61B0050C13A /* ringUp.aif in Resources */ = {isa = PBXBuildFile; fileRef = E7B5E6492046F61B0050C13A /* ringUp.aif */; };
 		E7CA42191C01F4530027DDFB /* tenthSecondBeeps.aif in Resources */ = {isa = PBXBuildFile; fileRef = E7CA42161C01F4530027DDFB /* tenthSecondBeeps.aif */; };
 		E7CA421A1C01F4530027DDFB /* thirdSecondBeeps.aif in Resources */ = {isa = PBXBuildFile; fileRef = E7CA42171C01F4530027DDFB /* thirdSecondBeeps.aif */; };
 		E7CA421B1C01F4530027DDFB /* halfSecondBeeps.aif in Resources */ = {isa = PBXBuildFile; fileRef = E7CA42181C01F4530027DDFB /* halfSecondBeeps.aif */; };
 		E7D381711C34234800327549 /* Trivia.m in Sources */ = {isa = PBXBuildFile; fileRef = E7D381701C34234800327549 /* Trivia.m */; };
 		E7DCF6EE1CE9135A0058A7DD /* LastNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = E7DCF6ED1CE9135A0058A7DD /* LastNumber.m */; };
-		E7ED2F481BC182F400862762 /* ringUp.aif in Resources */ = {isa = PBXBuildFile; fileRef = E7ED2F441BC182F400862762 /* ringUp.aif */; };
-		E7ED2F4A1BC2908E00862762 /* ringUpFollow.aif in Resources */ = {isa = PBXBuildFile; fileRef = E7ED2F491BC2908E00862762 /* ringUpFollow.aif */; };
 		E7F0C1FD1BDBAEB500932702 /* CCMadScientistBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E7F0C1FB1BDBAEB500932702 /* CCMadScientistBold.otf */; };
 		E7F0C1FE1BDBAEB500932702 /* CCMadScientistRegular.otf in Resources */ = {isa = PBXBuildFile; fileRef = E7F0C1FC1BDBAEB500932702 /* CCMadScientistRegular.otf */; };
 		E7F0C2001BDD62F300932702 /* AlternateTokens.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7F0C1FF1BDD62F300932702 /* AlternateTokens.xcassets */; };
@@ -54,7 +54,6 @@
 		E70459D01D6FB94300648BAA /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		E74302881C5A2B0E00DC9352 /* whistle.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = whistle.aif; sourceTree = "<group>"; };
 		E743028A1C5BDB5300DC9352 /* scoreChange.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = scoreChange.aif; sourceTree = "<group>"; };
-		E76AB5681BD63891008E41C8 /* lineShift.aif */ = {isa = PBXFileReference; lastKnownFileType = file; name = lineShift.aif; path = "../../../../Music/Logic/Sports Squares/lineShift.aif"; sourceTree = "<group>"; };
 		E775C4CA1B2474FC000DF395 /* WheelProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WheelProtocol.h; sourceTree = "<group>"; };
 		E7845A551D22E43100EB52FE /* bell.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = bell.aif; sourceTree = "<group>"; };
 		E78944CB1BB1688800C88BBA /* SquaresAudio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SquaresAudio.h; sourceTree = "<group>"; };
@@ -82,6 +81,9 @@
 		E7AF390A1B1FDAA90058EC5B /* Token.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Token.h; sourceTree = "<group>"; };
 		E7AF390B1B1FDAA90058EC5B /* Token.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Token.m; sourceTree = "<group>"; };
 		E7B0379B1C41883000672C59 /* Images-2.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-2.xcassets"; sourceTree = "<group>"; };
+		E7B5E6462046F5E50050C13A /* lineShift.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = lineShift.aif; sourceTree = "<group>"; };
+		E7B5E6482046F61B0050C13A /* ringUpFollow.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = ringUpFollow.aif; sourceTree = "<group>"; };
+		E7B5E6492046F61B0050C13A /* ringUp.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = ringUp.aif; sourceTree = "<group>"; };
 		E7CA42161C01F4530027DDFB /* tenthSecondBeeps.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = tenthSecondBeeps.aif; sourceTree = "<group>"; };
 		E7CA42171C01F4530027DDFB /* thirdSecondBeeps.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = thirdSecondBeeps.aif; sourceTree = "<group>"; };
 		E7CA42181C01F4530027DDFB /* halfSecondBeeps.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = halfSecondBeeps.aif; sourceTree = "<group>"; };
@@ -91,8 +93,6 @@
 		E7D508AA1CC5490000625BFB /* LightBulbProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LightBulbProtocol.h; sourceTree = "<group>"; };
 		E7DCF6EC1CE9135A0058A7DD /* LastNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LastNumber.h; sourceTree = "<group>"; };
 		E7DCF6ED1CE9135A0058A7DD /* LastNumber.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LastNumber.m; sourceTree = "<group>"; };
-		E7ED2F441BC182F400862762 /* ringUp.aif */ = {isa = PBXFileReference; lastKnownFileType = file; name = ringUp.aif; path = "../../../../Music/Logic/Sports Squares/ringUp.aif"; sourceTree = "<group>"; };
-		E7ED2F491BC2908E00862762 /* ringUpFollow.aif */ = {isa = PBXFileReference; lastKnownFileType = file; name = ringUpFollow.aif; path = "../../../../Music/Logic/Sports Squares/ringUpFollow.aif"; sourceTree = "<group>"; };
 		E7F0C1FB1BDBAEB500932702 /* CCMadScientistBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = CCMadScientistBold.otf; sourceTree = "<group>"; };
 		E7F0C1FC1BDBAEB500932702 /* CCMadScientistRegular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = CCMadScientistRegular.otf; sourceTree = "<group>"; };
 		E7F0C1FF1BDD62F300932702 /* AlternateTokens.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = AlternateTokens.xcassets; sourceTree = "<group>"; };
@@ -122,12 +122,12 @@
 		E78944C61BB0A75C00C88BBA /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
+				E7B5E6492046F61B0050C13A /* ringUp.aif */,
+				E7B5E6482046F61B0050C13A /* ringUpFollow.aif */,
+				E7B5E6462046F5E50050C13A /* lineShift.aif */,
 				E7CA42161C01F4530027DDFB /* tenthSecondBeeps.aif */,
 				E7CA42171C01F4530027DDFB /* thirdSecondBeeps.aif */,
 				E7CA42181C01F4530027DDFB /* halfSecondBeeps.aif */,
-				E76AB5681BD63891008E41C8 /* lineShift.aif */,
-				E7ED2F491BC2908E00862762 /* ringUpFollow.aif */,
-				E7ED2F441BC182F400862762 /* ringUp.aif */,
 				E743028A1C5BDB5300DC9352 /* scoreChange.aif */,
 				E74302881C5A2B0E00DC9352 /* whistle.aif */,
 				E7845A551D22E43100EB52FE /* bell.aif */,
@@ -332,21 +332,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7F0C1FD1BDBAEB500932702 /* CCMadScientistBold.otf in Resources */,
-				E7ED2F481BC182F400862762 /* ringUp.aif in Resources */,
 				E7B0379C1C41883000672C59 /* Images-2.xcassets in Resources */,
 				E7F0C2001BDD62F300932702 /* AlternateTokens.xcassets in Resources */,
 				E7A3F82C1BD94BEF001D1C11 /* Field.xcassets in Resources */,
 				E7CA421A1C01F4530027DDFB /* thirdSecondBeeps.aif in Resources */,
-				E7ED2F4A1BC2908E00862762 /* ringUpFollow.aif in Resources */,
+				E7B5E64A2046F61B0050C13A /* ringUpFollow.aif in Resources */,
+				E7B5E6472046F5E50050C13A /* lineShift.aif in Resources */,
 				E7AF38EC1B1FD3340058EC5B /* Main.storyboard in Resources */,
 				E7CA421B1C01F4530027DDFB /* halfSecondBeeps.aif in Resources */,
 				E7845A561D22E43100EB52FE /* bell.aif in Resources */,
 				E7F0C1FE1BDBAEB500932702 /* CCMadScientistRegular.otf in Resources */,
 				E7AF38F11B1FD3340058EC5B /* LaunchScreen.xib in Resources */,
 				E70459D11D6FB94300648BAA /* Launch Screen.storyboard in Resources */,
+				E7B5E64B2046F61B0050C13A /* ringUp.aif in Resources */,
 				E74302891C5A2B0E00DC9352 /* whistle.aif in Resources */,
 				E7AF38EE1B1FD3340058EC5B /* Images.xcassets in Resources */,
-				E76AB5691BD63891008E41C8 /* lineShift.aif in Resources */,
 				E7CA42191C01F4530027DDFB /* tenthSecondBeeps.aif in Resources */,
 				E743028B1C5BDB5300DC9352 /* scoreChange.aif in Resources */,
 			);
